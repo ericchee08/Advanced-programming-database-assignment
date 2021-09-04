@@ -24,7 +24,8 @@ It should be assumed that this program will be able to handle other sets of data
 
 ## Non-Functional requirements 
 
-The GUI interface provides appropriate feedback to confirm or deny a user’s actions•The application manages internal and user-generated errors
+- The GUI interface provides appropriate feedback to confirm or deny a user’s actions
+- The application manages internal and user-generated errors
 
 ## Technical Requirements 
 
@@ -35,23 +36,25 @@ The GUI interface provides appropriate feedback to confirm or deny a user’s ac
 
 ### Wireframe - Lucid Chart
 
-![image](https://user-images.githubusercontent.com/58150120/132091346-e33af642-a402-470e-8c79-51d709d47a4e.png)
+![image](https://user-images.githubusercontent.com/58150120/132091516-7e186d50-30d2-4fc7-aacd-4d40575447ea.png)
 
-### Application - tkiner GUI 
+### Application - tkinter GUI 
 
-![image](https://user-images.githubusercontent.com/58150120/132091363-74461841-6bf1-43d9-af84-a28d9b326cc9.png)
+![image](https://user-images.githubusercontent.com/58150120/132091540-3f6ea551-4885-48b3-97f6-efe5d40f30c9.png)
 
 ### Data Visualisation example - Matplotlib
 
-![image](https://user-images.githubusercontent.com/58150120/132091381-c7de1747-3190-4194-9419-4e0b0a6c2736.png)
+![image](https://user-images.githubusercontent.com/58150120/132091559-ba441912-8288-4dc3-81e0-1eeae5004c44.png)
 
-## Program flowchart - Lucid Chart
+### Program flowchart - Lucid Chart
 
-![image](https://user-images.githubusercontent.com/58150120/132091400-5ae2451b-0454-4cdb-9c3b-2ca0fd135799.png)
+File extracting, storing and converting from MongoDB Database, with threading
 
-## File extracting, storing and converting from MongoDB Database, with threading - Lucid Chart
+![image](https://user-images.githubusercontent.com/58150120/132091493-f6b68932-4ff9-4907-8987-a3e39654a4b2.png)
 
-![image](https://user-images.githubusercontent.com/58150120/132091418-4dde61bd-aa4e-48d6-b092-7c6f7b602ae4.png)
 
+### File extracting, storing and converting from MongoDB Database, with threading - Lucid Chart
+
+![image](https://user-images.githubusercontent.com/58150120/132091505-6de6d341-d5b9-42bb-b634-c8f1b9f2fffb.png)
 
 
