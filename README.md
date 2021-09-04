@@ -5,7 +5,7 @@ During my Advanced Programming university CS module, an assignment was set to de
 
 My approach to this assignment was to first import and analyse the three given datasets (violations.csv, inspections.csv and inventory.csv). Data pre-processing techniques were then implemented. I ensured the required client output values were generated correctly using various data visualisation techniques. 
 
-When the backend of the project was complete, I implemented tkinter module for my graphical user interface with my code. Before I began the frontend design, I developed several draft  designs through wireframing using Lucidchart.
+When the backend of the project was complete, I implemented tkinter module for my graphical user interface with my code. Developing several concept designs through wireframing using Lucidchart had helped with the final design.
 
 Lastly, the use of MongoDB as my database where I was able to store and load my data.
 
