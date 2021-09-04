@@ -40,7 +40,7 @@ It should be assumed that this program will be able to handle other sets of data
 
 ### Application - tkinter GUI 
 
-![image](https://user-images.githubusercontent.com/58150120/132091540-3f6ea551-4885-48b3-97f6-efe5d40f30c9.png)
+![image](https://user-images.githubusercontent.com/58150120/132091613-2d84b7ec-6ebf-472d-9488-bc5ed8632650.png)
 
 ### Data Visualisation example - Matplotlib
 
@@ -48,10 +48,7 @@ It should be assumed that this program will be able to handle other sets of data
 
 ### Program flowchart - Lucid Chart
 
-File extracting, storing and converting from MongoDB Database, with threading
-
-![image](https://user-images.githubusercontent.com/58150120/132091493-f6b68932-4ff9-4907-8987-a3e39654a4b2.png)
-
+![image](https://user-images.githubusercontent.com/58150120/132091594-a22d6375-ea85-4cef-9158-1320107a26da.png)
 
 ### File extracting, storing and converting from MongoDB Database, with threading - Lucid Chart
 
