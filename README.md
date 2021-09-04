@@ -1,7 +1,7 @@
 # Advanced-programming-database-assignment
 During my "Advanced Programming" university CS module, an assignment was set to develop a prototype application that demonstrates how data from a given data set can be formatted, cleaned, and used to generate specific outputs from a client brief. The given datasets consists over 1 million data values combined about restuaurants - committed violations, inspections scores, location information, owner information, etc. 
 
-### For detailed explanation of system please have a read of my final report.
+### *For detailed explanation of system please refer to final report.*
 
 My approach to this assignment was to first import and analyse the three given datasets (violations.csv, inspections.csv and inventory.csv). Once I understood the datasets, data pre-processing techniques were implemeneted. I ensured the required client output values were generated correctly using various data visualisation techniques. 
 
