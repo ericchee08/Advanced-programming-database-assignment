@@ -16,10 +16,10 @@ Lastly, the use of MongoDB as my database where I was able to store and load my 
 - A process for cleaning and preparing the initial data set, managing inconsistences, errors, missing values and any specific changes required by the client (see below)
 - A graphical user interface(s) for interacting with the data enable the user to:
 
-•Load and clean the initial data set    
-•Load and save the prepared data set
-•Use the prepared data set to generate output and visualisation   
-•Manipulate the range of values used to generate output and visualisations
+- Load and clean the initial data set    
+- Load and save the prepared data set
+- Use the prepared data set to generate output and visualisation   
+- Manipulate the range of values used to generate output and visualisations
 
 It should be assumed that this program will be able to handle other sets of data generated from the same source, i.e. data with the same column row headings but containing different values and anomalies. However, the application is not required to be generic (work with multiple unknown data sets). Given this best practice regarding code reuse, encapsulation and a well-defined programming interface should be applied where applicable.
 
