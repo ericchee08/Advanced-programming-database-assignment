@@ -15,6 +15,7 @@ Lastly, the use of MongoDB as my database where I was able to store and load my 
 - A means to back up the data in this format using either files or a database. This should preserve the current state of the data when the program is closed.
 - A process for cleaning and preparing the initial data set, managing inconsistences, errors, missing values and any specific changes required by the client (see below)
 - A graphical user interface(s) for interacting with the data enable the user to:
+
 •Load and clean the initial data set    
 •Load and save the prepared data set
 •Use the prepared data set to generate output and visualisation   
