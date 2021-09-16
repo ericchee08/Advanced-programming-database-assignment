@@ -35,7 +35,7 @@ It should be assumed that this program will be able to handle other sets of data
 - The application runs within the anaconda environment using a Jupyter notebook
 - The application or its parts do not run concurrently, do NOT use Python threads
 
-##Sample images: (high quality images available in report)
+## Sample images: (high quality images available in report)
 
 ### Wireframe - Lucid Chart
 
